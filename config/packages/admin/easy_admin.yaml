@@ -1,0 +1,10 @@
+easy_admin:
+    site_name: 'Enuygun|Sigorta'
+    list:
+        max_results: 30
+    menu:
+        -   label: 'Anasayfa'
+            route: 'admin_dashboard'
+            icon: 'dashboard'
+        
+    entities:
